@@ -8,4 +8,6 @@ int main(){
 
     printf("Idades dos Integrantes");
     printf("Aluno 1: 21");
+    printf("Aluno 2: 18");
+
 }
