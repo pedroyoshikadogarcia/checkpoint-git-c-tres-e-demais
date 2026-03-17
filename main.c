@@ -11,4 +11,5 @@ int main(){// Função principal -- Nomes
     printf("Aluno 2: 18");
     printf("Aluno 3: 18");
 
+    return 0;
 }
