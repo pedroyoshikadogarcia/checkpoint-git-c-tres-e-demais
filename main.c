@@ -7,4 +7,5 @@ int main(){
     printf ("Aluno 3: Thiago Maluf Hofmann");
 
     printf("Idades dos Integrantes");
+    printf("Aluno 1: 21");
 }
